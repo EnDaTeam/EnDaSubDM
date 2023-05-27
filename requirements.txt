@@ -1,0 +1,5 @@
+dnspython>=2.3.0
+colorama>=0.4.6
+pystyle>=2.9
+pyfiglet>=0.5
+art>=5.9
