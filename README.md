@@ -41,11 +41,11 @@ I Learned how to "animate" a line, with "/r" tag.
 - 2 hours challenge
 
 - Completed with success
-
+https://i.ibb.co/Bs4s4jb/Screenshot-2023-05-28-142704.png
 
 ## Screenshots
 
-![App Screenshots](https://i.ibb.co/4MKtMMm/Screenshot-2023-05-28-003623.png)
+![App Screenshots][((https://i.ibb.co/Bs4s4jb/Screenshot-2023-05-28-142704.png)]
 
 ![App Screenshot](https://i.ibb.co/4MKtMMm/Screenshot-2023-05-28-003623.png)
 
