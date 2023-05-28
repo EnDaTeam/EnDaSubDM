@@ -47,5 +47,3 @@ https://i.ibb.co/Bs4s4jb/Screenshot-2023-05-28-142704.png
 
 ![App Screenshots](https://i.ibb.co/Bs4s4jb/Screenshot-2023-05-28-142704.png)
 
-![App Screenshot](https://i.ibb.co/4MKtMMm/Screenshot-2023-05-28-003623.png)
-
