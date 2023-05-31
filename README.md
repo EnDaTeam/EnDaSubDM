@@ -1,7 +1,7 @@
 
 # EnDa SubDomain Finder
 
-A simple tool for PenTesters (Ethical Hackers) for enumerating the subdomains of a host, written in python.
+A simple tool for PenTesters (Ethical Hackers) for enumerating the subdomains of a host, writen in python.
 
 
 ## Authors
@@ -41,9 +41,11 @@ I Learned how to "animate" a line, with "/r" tag.
 - 2 hours challenge
 
 - Completed with success
-https://i.ibb.co/Bs4s4jb/Screenshot-2023-05-28-142704.png
+
 
 ## Screenshots
 
-![App Screenshots](https://i.ibb.co/Bs4s4jb/Screenshot-2023-05-28-142704.png)
+![App Screenshots](https://i.ibb.co/c1hBJkj/Screenshot-2023-05-28-003553.png)
+
+![App Screenshots](https://i.ibb.co/4MKtMMm/Screenshot-2023-05-28-003623.png)
 

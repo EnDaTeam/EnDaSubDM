@@ -43,7 +43,7 @@ def enumerate_subdomains(filename, host,times=0.1):
             time.sleep(float(times))
             try:
                 socket.gethostbyname(hostname)
-                print("    " + Fore.WHITE + "[" + Fore.LIGHTMAGENTA_EX + "+" + Fore.WHITE + "] >> " + Fore.LIGHTCYAN_EX + subdomain + Fore.LIGHTGREEN_EX + f".{host}" + Fore.LIGHTYELLOW_EX + " is avaible")
+                print("    " + Fore.WHITE + "[" + Fore.LIGHTMAGENTA_EX + "+" + Fore.WHITE + "] >> " + Fore.LIGHTCYAN_EX + subdomain + Fore.LIGHTGREEN_EX + f".{host}" + Fore.LIGHTYELLOW_EX + " is available")
                 finded = finded + 1
             except socket.gaierror:
                 pass
@@ -85,7 +85,7 @@ while True:
             try:
                 float(times)
             except:
-                print(Fore.RESET + f"    [{Fore.RED}#{Fore.RESET}] >> {Fore.LIGHTRED_EX}The inputed time is not avaible!" + Fore.RESET)
+                print(Fore.RESET + f"    [{Fore.RED}#{Fore.RESET}] >> {Fore.LIGHTRED_EX}The inputed time is not available!" + Fore.RESET)
                 enter()
             else:
                 timeinput = 0
