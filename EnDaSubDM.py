@@ -98,7 +98,7 @@ while True:
             try:
                 file = open(wordlist,"r")
             except:
-                print(Fore.RESET + f"     [{Fore.RED}#{Fore.RESET}] >> {Fore.LIGHTRED_EX}The inputed file does not exist or can not be openned!" + Fore.RESET)
+                print(Fore.RESET + f"    [{Fore.RED}#{Fore.RESET}] >> {Fore.LIGHTRED_EX}The inputed file does not exist or can not be openned!" + Fore.RESET)
                 enter()
             else:
                 wordlistinput = 0
